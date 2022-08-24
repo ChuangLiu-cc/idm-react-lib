@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React pro works with idm-search-results-details-lib
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
