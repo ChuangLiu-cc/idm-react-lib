@@ -1,4 +1,6 @@
-# React pro works with idm-search-results-details-lib
+# React pro works with idm-search-results-details-lib 
+
+npm i idm-reservation-search-results-details-lib
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
